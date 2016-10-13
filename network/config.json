@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "ulster",
+    "link": "",
+    "text": "Oksana Dereza"
+  },
+  "text": {
+    "more": "The graph shows the co-occurrence of characters in the Ulster cycle of medieval Irish narrative. Every node corresponds to a character: the bigger it is, the more connetions the character has. If two characters are connected with a link, they occur together in a window of size 5. The thickness of the link indicates how often these characters co-occur. Colours show the degree of each node.",
+    "intro": "The graph shows the co-occurrence of characters in the Ulster cycle of medieval Irish narrative. Every node corresponds to a character: the bigger it is, the more connetions the character has. If two characters are connected with a link, they occur together in a window of size 5. The thickness of the link indicates how often these characters co-occur. Colours show the degree of each node.",
+    "title": "Characters of the Ulster Cycle"
+  },
+  "legend": {
+    "edgeLabel": "Co-occurrence",
+    "colorLabel": "Glustering coefficient",
+    "nodeLabel": "Character"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Interval",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
