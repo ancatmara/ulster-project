@@ -1,7 +1,11 @@
 $(document).ready(function() {
 
-var width = 1000,
-    height = 1000;
+var w = window,
+    d = document,
+    e = d.documentElement,
+    g = d.getElementsByTagName('body')[0],
+    width = w.innerWidth || e.clientWidth || g.clientWidth,
+    height = w.innerHeight|| e.clientHeight|| g.clientHeight;
 
 var color = d3.scale.category20();
 
@@ -20,9 +24,9 @@ function zoom() {
 
 
 var svg = d3.select("#chart").append("svg")
-		.attr("width", width)
-		.attr("height", height)
-	.append("g")
+	.attr("width", width)
+	.attr("height", height) 
+    .append("g")
 		.attr("class", "graph")
         .call(zoomer); 
 		
