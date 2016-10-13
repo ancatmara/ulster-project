@@ -14,12 +14,12 @@
   },
   "legend": {
     "edgeLabel": "Co-occurrence",
-    "colorLabel": "Glustering coefficient",
+    "colorLabel": "Degree",
     "nodeLabel": "Character"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Interval",
+    "groupSelectorAttribute": "Взвешенная мощность",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
