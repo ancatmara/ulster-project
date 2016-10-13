@@ -1,0 +1,2503 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="weight" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Fóill" />
+    <node id="Cuar" />
+    <node id="Nía" />
+    <node id="Fercherdne" />
+    <node id="Fand" />
+    <node id="Dedad" />
+    <node id="Echde" />
+    <node id="Berngal" />
+    <node id="Iliu" />
+    <node id="Etar" />
+    <node id="Sétantae" />
+    <node id="Caín" />
+    <node id="Fíachach" />
+    <node id="Mod" />
+    <node id="Banba" />
+    <node id="Eochaid" />
+    <node id="Nem" />
+    <node id="Donncha" />
+    <node id="Gabrán" />
+    <node id="Fóenglinni" />
+    <node id="Connad mac Mornae" />
+    <node id="Cumal" />
+    <node id="Comla" />
+    <node id="Ailill" />
+    <node id="Uathach" />
+    <node id="Carbad" />
+    <node id="Deirdriu" />
+    <node id="Dithorbo" />
+    <node id="Cloen" />
+    <node id="Blaithmeics" />
+    <node id="Caíni" />
+    <node id="Fíachna" />
+    <node id="Scenmend" />
+    <node id="Bras" />
+    <node id="Benn" />
+    <node id="Cáer" />
+    <node id="Mál" />
+    <node id="Cimboeth" />
+    <node id="Mugain" />
+    <node id="Coll" />
+    <node id="Lendabair" />
+    <node id="Lugaid" />
+    <node id="Dúngus" />
+    <node id="Bodb" />
+    <node id="Labraid" />
+    <node id="Macha" />
+    <node id="Elcmuire" />
+    <node id="Fogartach" />
+    <node id="Rúad" />
+    <node id="Athirne" />
+    <node id="Ethal" />
+    <node id="Úalu" />
+    <node id="Mongán" />
+    <node id="Furbaide" />
+    <node id="Lóeg" />
+    <node id="Caill" />
+    <node id="Fíad" />
+    <node id="Ness" />
+    <node id="Aidche" />
+    <node id="Rochad" />
+    <node id="Adarc" />
+    <node id="Lóthar" />
+    <node id="Lóegaire" />
+    <node id="Condla" />
+    <node id="Cú Culand" />
+    <node id="Echbél" />
+    <node id="Sláine" />
+    <node id="Samuin" />
+    <node id="Aífe" />
+    <node id="Bresal" />
+    <node id="Roech" />
+    <node id="Dall" />
+    <node id="Benén" />
+    <node id="Níam" />
+    <node id="Foltchaín" />
+    <node id="Domnall" />
+    <node id="Congalach" />
+    <node id="Fácen" />
+    <node id="Fatheman" />
+    <node id="Art" />
+    <node id="Cet" />
+    <node id="Ugaine" />
+    <node id="Róan" />
+    <node id="Morand" />
+    <node id="Dartaid" />
+    <node id="Sinand" />
+    <node id="Cormac" />
+    <node id="Úar Galmáir" />
+    <node id="Condere" />
+    <node id="Drúcht" />
+    <node id="Cúscraid" />
+    <node id="Echach" />
+    <node id="Follscaide" />
+    <node id="Órlám" />
+    <node id="Cond" />
+    <node id="Bicne" />
+    <node id="Cuillius" />
+    <node id="Goibniu" />
+    <node id="Lond" />
+    <node id="Fráech" />
+    <node id="Sencha" />
+    <node id="Bláithine" />
+    <node id="Siaburchend" />
+    <node id="Cluche" />
+    <node id="Lug" />
+    <node id="Láth" />
+    <node id="Fergal" />
+    <node id="Iliach" />
+    <node id="Ethail" />
+    <node id="Forais" />
+    <node id="Belaig" />
+    <node id="Gér" />
+    <node id="Fer Diad" />
+    <node id="Baíthén" />
+    <node id="Búanann" />
+    <node id="Mend" />
+    <node id="Fén" />
+    <node id="Bain" />
+    <node id="Uhtechar" />
+    <node id="Congaile" />
+    <node id="Findchóem" />
+    <node id="Gabalglinni" />
+    <node id="Foill" />
+    <node id="Fedelm" />
+    <node id="Dibe" />
+    <node id="Éogan" />
+    <node id="Fer Báeth" />
+    <node id="Cellach" />
+    <node id="Badb" />
+    <node id="Conall Cloen" />
+    <node id="Lóegaire Búadach" />
+    <node id="Muinremur" />
+    <node id="Caiss" />
+    <node id="Ánlúan" />
+    <node id="Trénfer" />
+    <node id="Scáthach" />
+    <node id="Úan" />
+    <node id="Srúb" />
+    <node id="Mórrígan" />
+    <node id="Búan" />
+    <node id="Medb" />
+    <node id="Fedelm Noíchrothach" />
+    <node id="Fíngen" />
+    <node id="Echdach" />
+    <node id="Etan" />
+    <node id="Uisliu" />
+    <node id="Rígamus" />
+    <node id="Fíacha" />
+    <node id="Ferb" />
+    <node id="Gárach" />
+    <node id="Murgen" />
+    <node id="Tamuin" />
+    <node id="Simón Druí" />
+    <node id="Senláech" />
+    <node id="Dorcha" />
+    <node id="Máta" />
+    <node id="Buri" />
+    <node id="Bríanán" />
+    <node id="Gerrce" />
+    <node id="Amergin" />
+    <node id="Senach" />
+    <node id="Aíe" />
+    <node id="Sárán" />
+    <node id="Irúath" />
+    <node id="Áed" />
+    <node id="Findchaimi" />
+    <node id="Gulban" />
+    <node id="Fedelm Foltchaín" />
+    <node id="Úaithne" />
+    <node id="Fabric" />
+    <node id="Emine" />
+    <node id="Damán" />
+    <node id="Triath" />
+    <node id="Airbe" />
+    <node id="Baiscne" />
+    <node id="Umal" />
+    <node id="Feradach" />
+    <node id="Mess Gegra" />
+    <node id="Echach Sálbuid" />
+    <node id="Cairbre" />
+    <node id="Airdgeme" />
+    <node id="Díchuil" />
+    <node id="Conchobar" />
+    <node id="Cerna" />
+    <node id="Findabair" />
+    <node id="Dócha" />
+    <node id="Brig" />
+    <node id="Eimer" />
+    <node id="Crom Deróil" />
+    <node id="Ailill Miltenga" />
+    <node id="Áed Sláine" />
+    <node id="Elatha" />
+    <node id="Sadb" />
+    <node id="Éccell" />
+    <node id="Imroll Belaig Eóin" />
+    <node id="Agam" />
+    <node id="Tailtiu" />
+    <node id="Cochar" />
+    <node id="Ibar" />
+    <node id="Redg Cáinte" />
+    <node id="Ríangabair" />
+    <node id="Ferchú" />
+    <node id="Báeth" />
+    <node id="Níall" />
+    <node id="Cethern" />
+    <node id="Crimthann" />
+    <node id="Fergus" />
+    <node id="Leborcham" />
+    <node id="Láeg" />
+    <node id="Fruích" />
+    <node id="Cobthach" />
+    <node id="Léna" />
+    <node id="Lúachair" />
+    <node id="Úath" />
+    <node id="Fannall" />
+    <node id="Daurthecht" />
+    <node id="Deichtine" />
+    <node id="Dáire" />
+    <node id="Fergus Ailbe" />
+    <node id="Illand" />
+    <node id="Cáur" />
+    <node id="Beothach" />
+    <node id="Cú Roí" />
+    <node id="Echach Fedlig" />
+    <node id="Conn" />
+    <node id="Conall Cernach" />
+    <node id="Díarmait" />
+    <node id="Conang" />
+    <node id="Rus" />
+    <node id="Erc" />
+    <node id="Flidais" />
+    <node id="Cathbad" />
+    <node id="Conall" />
+    <node id="Bodar" />
+    <node id="Blaí" />
+    <node id="Delt" />
+    <node id="Triscoth" />
+    <node id="Etarcomal" />
+    <node id="Forgall" />
+    <node id="Láríne" />
+    <node id="Fergna" />
+    <edge source="Fóill" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fóill" target="Fannall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cuar" target="Athirne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cuar" target="Scáthach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cuar" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cuar" target="Dall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cuar" target="Fén">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nía" target="Coll">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nía" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fercherdne" target="Bláithine">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fercherdne" target="Cú Roí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fercherdne" target="Fíad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fercherdne" target="Cairbre">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fercherdne" target="Etar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fand" target="Eimer">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fand" target="Láeg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fand" target="Simón Druí">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fand" target="Labraid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fand" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fand" target="Áed">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Fand" target="Cú Culand">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Dedad" target="Senach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dedad" target="Díarmait">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dedad" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dedad" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dedad" target="Elcmuire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dedad" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Dedad" target="Coll">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dedad" target="Caín">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echde" target="Cú Roí">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Echde" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Berngal" target="Buri">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Berngal" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Berngal" target="Cobthach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iliu" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etar" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etar" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etar" target="Irúath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etar" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Etar" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etar" target="Caill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etar" target="Etarcomal">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Etar" target="Cú Culand">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Etar" target="Ailill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sétantae" target="Conchobar">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Sétantae" target="Lugaid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sétantae" target="Furbaide">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Umal">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Caíni">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Úan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Caín" target="Cethern">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Donncha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Láth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Condla">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Conchobar">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Caín" target="Rúad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Bras">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Caín" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Ailill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Caín" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caín" target="Cet">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Caín" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíachach" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mod" target="Fíad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Banba" target="Cú Roí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Athirne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Fíachna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Echach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Illand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Ailill">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eochaid" target="Echach Fedlig">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Medb">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Eochaid" target="Conchobar">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Eochaid" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eochaid" target="Caiss">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Deirdriu">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Nem" target="Donncha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Lúachair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Badb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Nem" target="Damán">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Conchobar">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Nem" target="Cet">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Nem" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Nem" target="Dall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Donncha" target="Irúath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Donncha" target="Áed">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Gabrán" target="Brig">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fóenglinni" target="Cú Roí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fóenglinni" target="Crom Deróil">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fóenglinni" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Connad mac Mornae" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Connad mac Mornae" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cumal" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cumal" target="Medb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cumal" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cumal" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cumal" target="Ailill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Comla" target="Airbe">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Comla" target="Cairbre">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Comla" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Comla" target="Úaithne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Comla" target="Medb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Comla" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Comla" target="Láth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Comla" target="Cú Culand">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ailill" target="Triath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Lóegaire Búadach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Máta">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ailill" target="Fer Báeth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Cú Roí">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Ailill" target="Findabair">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Ailill" target="Ferchú">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Crom Deróil">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Lugaid">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ailill" target="Sadb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Aíe">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Búan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Ánlúan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Medb">
+      <data key="d0">133</data>
+    </edge>
+    <edge source="Ailill" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Cethern">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Cormac">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ailill" target="Fíachna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Condere">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Echach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Órlám">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ailill" target="Echach Fedlig">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Conn">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ailill" target="Cuillius">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ailill" target="Tamuin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ailill" target="Fráech">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Ailill" target="Art">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ailill" target="Sencha">
+      <data key="d0">19</data>
+    </edge>
+    <edge source="Ailill" target="Rus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ailill" target="Fergus">
+      <data key="d0">54</data>
+    </edge>
+    <edge source="Ailill" target="Flidais">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Erc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ailill" target="Conchobar">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Ailill" target="Cú Culand">
+      <data key="d0">13</data>
+    </edge>
+    <edge source="Ailill" target="Ethail">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Etarcomal">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ailill" target="Láríne">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Uathach" target="Scáthach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Uathach" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Uathach" target="Aífe">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Uathach" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Uathach" target="Belaig">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Uathach" target="Cethern">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carbad" target="Coll">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Carbad" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Deirdriu" target="Cellach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Deirdriu" target="Leborcham">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Deirdriu" target="Lóeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Deirdriu" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Deirdriu" target="Macha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Deirdriu" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Deirdriu" target="Uisliu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dithorbo" target="Macha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dithorbo" target="Cimboeth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cloen" target="Labraid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cloen" target="Gér">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cloen" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cloen" target="Conall Cloen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cloen" target="Sencha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Blaithmeics" target="Bras">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caíni" target="Úaithne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caíni" target="Cairbre">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíachna" target="Fíacha">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Fíachna" target="Sencha">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Fíachna" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíachna" target="Conchobar">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Fíachna" target="Dáire">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Fíachna" target="Sláine">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíachna" target="Mongán">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scenmend" target="Cú Culand">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Bras" target="Scáthach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bras" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bras" target="Lugaid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bras" target="Macha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Adarc">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benn" target="Drúcht">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benn" target="Bicne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Fer Báeth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benn" target="Cú Culand">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Benn" target="Lóeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Coll">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Conchobar">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Benn" target="Lugaid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Fíacha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Fráech">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Gulban">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Rúad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Athirne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Furbaide">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Benn" target="Damán">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Níall">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Benn" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Benn" target="Fíngen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cáer" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mál" target="Cethern">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mál" target="Muinremur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mál" target="Ugaine">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Mál" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mál" target="Domnall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cimboeth" target="Macha">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cimboeth" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mugain" target="Etan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mugain" target="Leborcham">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mugain" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mugain" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mugain" target="Conchobar">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Mugain" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mugain" target="Lugaid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coll" target="Fer Báeth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coll" target="Búan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coll" target="Muinremur">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Coll" target="Badb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Coll" target="Conchobar">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Coll" target="Cú Culand">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Lendabair" target="Éogan">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Lendabair" target="Fedelm">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Etan">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Lugaid" target="Aidche">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Fergus Ailbe">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Láeg">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Lugaid" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Art">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Rochad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Cathbad">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lugaid" target="Deichtine">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Fráech">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Caill">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Cú Culand">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Lugaid" target="Láríne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lugaid" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dúngus" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bodb" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Labraid" target="Echach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Labraid" target="Fíad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Labraid" target="Triscoth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Labraid" target="Cú Culand">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Macha" target="Ness">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Leborcham">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Macha" target="Cúscraid">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Macha" target="Fannall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Badb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Macha" target="Muinremur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Conchobar">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Macha" target="Trénfer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Art">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Macha" target="Sencha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Úan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Lóegaire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Rúad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Forgall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Macha" target="Cú Culand">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Macha" target="Crimthann">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Elcmuire" target="Fedelm">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fogartach" target="Fergal">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Scáthach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Art">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Crom Deróil">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Cethern">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Láth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Rochad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Áed">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rúad" target="Cúscraid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Fedelm">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Fer Báeth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Medb">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Rúad" target="Éogan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rúad" target="Conchobar">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Athirne" target="Echach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Athirne" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Athirne" target="Sinand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Athirne" target="Mess Gegra">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Athirne" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Athirne" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Athirne" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ethal" target="Cond">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ethal" target="Ferb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Úalu" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Úalu" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Furbaide" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Furbaide" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Furbaide" target="Rochad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Furbaide" target="Cúscraid">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Furbaide" target="Ferb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Furbaide" target="Tailtiu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caill" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caill" target="Fíngen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caill" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíad" target="Fergus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Fíad" target="Conchobar">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fíad" target="Báeth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíad" target="Gárach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíad" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ness" target="Echach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Ness" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ness" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ness" target="Samuin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ness" target="Fedelm Noíchrothach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ness" target="Conchobar">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Ness" target="Echach Sálbuid">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ness" target="Cú Culand">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Rochad" target="Dáire">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rochad" target="Iliach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rochad" target="Fatheman">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Rochad" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rochad" target="Rígamus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rochad" target="Cú Culand">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Rochad" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Rochad" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóthar" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóthar" target="Cú Culand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Lóegaire Búadach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Amergin">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Lóegaire" target="Rus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Benén">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Cormac">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Úath">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lóegaire" target="Conall">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Lóegaire" target="Bicne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Iliach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Fatheman">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Dócha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Fedelm">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Fedelm Foltchaín">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Art">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Conall Cernach">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Lóegaire" target="Cet">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire" target="Conchobar">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Lóegaire" target="Sencha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condla" target="Scáthach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condla" target="Ailill Miltenga">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condla" target="Beothach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condla" target="Aífe">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condla" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Bain">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Delt">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Cathbad">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Illand">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Fer Báeth">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Badb">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cú Culand" target="Aífe">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Conchobar">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Cú Culand" target="Ferchú">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Scáthach">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Cú Culand" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Mórrígan">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Domnall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Agam">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Cú Culand" target="Eimer">
+      <data key="d0">8</data>
+    </edge>
+    <edge source="Cú Culand" target="Medb">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Cú Culand" target="Cet">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cú Culand" target="Fíngen">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Búan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Etan">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cú Culand" target="Láeg">
+      <data key="d0">24</data>
+    </edge>
+    <edge source="Cú Culand" target="Cormac">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Rígamus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Lúachair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Úath">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Follscaide">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Órlám">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Dorcha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Amergin">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Fíacha">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Cú Culand" target="Fráech">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Art">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Sencha">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cú Culand" target="Rus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cú Culand" target="Fergus">
+      <data key="d0">33</data>
+    </edge>
+    <edge source="Cú Culand" target="Dáire">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Conall">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cú Culand" target="Cethern">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Cú Culand" target="Damán">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Gér">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Culand" target="Crimthann">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Etarcomal">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cú Culand" target="Láríne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echbél" target="Muinremur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echbél" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Sláine" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aífe" target="Bain">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Aífe" target="Bodar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aífe" target="Scáthach">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Aífe" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aífe" target="Rus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aífe" target="Airdgeme">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Aífe" target="Áed">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bresal" target="Badb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bresal" target="Fedelm">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Roech" target="Úaithne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Roech" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Roech" target="Congalach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Roech" target="Fergus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Dall" target="Gabalglinni">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Níam" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Foltchaín" target="Eimer">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Domnall" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Domnall" target="Ferb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Domnall" target="Cobthach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Domnall" target="Congalach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Congalach" target="Conang">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Congalach" target="Caiss">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Congalach" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fácen" target="Siaburchend">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Art" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Art" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Art" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Art" target="Úar Galmáir">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Art" target="Badb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Art" target="Damán">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Art" target="Conchobar">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cet" target="Feradach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Lóegaire Búadach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Uhtechar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Ibar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Lúachair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Cúscraid">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cet" target="Badb">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cet" target="Fergna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Éogan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cet" target="Muinremur">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cet" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Caiss">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cet" target="Ánlúan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Dócha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Sencha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Rus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cet" target="Áed Sláine">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Fergus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cet" target="Conchobar">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cet" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cet" target="Conall">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Cet" target="Medb">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Ugaine" target="Echdach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Róan" target="Sencha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Morand" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Morand" target="Findchóem">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dartaid" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dartaid" target="Ferb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cormac" target="Conang">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cormac" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cormac" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cormac" target="Echach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cormac" target="Iliach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cormac" target="Cairbre">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cormac" target="Medb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cormac" target="Conchobar">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Cormac" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condere" target="Echach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condere" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Condere" target="Fén">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Drúcht" target="Delt">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cúscraid" target="Conall Cloen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cúscraid" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cúscraid" target="Fíngen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cúscraid" target="Conchobar">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Echach" target="Echdach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echach" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echach" target="Áed">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echach" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echach" target="Éogan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echach" target="Cethern">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Órlám" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Órlám" target="Gárach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cond" target="Crom Deróil">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cond" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cond" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cond" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cond" target="Iliach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cond" target="Fedelm">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cond" target="Etan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cuillius" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Goibniu" target="Fíacha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lond" target="Conang">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lond" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lond" target="Muinremur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lond" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lond" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fráech" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fráech" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fráech" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fráech" target="Damán">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fráech" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fráech" target="Conall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Fráech" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sencha" target="Triscoth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sencha" target="Rus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sencha" target="Léna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sencha" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sencha" target="Findchóem">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Sencha" target="Conchobar">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Bláithine" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Siaburchend" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cluche" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lug" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lug" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Láth" target="Etan">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Láth" target="Cáur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Láth" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Láth" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iliach" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iliach" target="Cethern">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iliach" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iliach" target="Lóegaire Búadach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iliach" target="Caiss">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Iliach" target="Dócha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ethail" target="Badb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Forais" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Forais" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Belaig" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fer Diad" target="Damán">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Baíthén" target="Illand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Búanann" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Búanann" target="Mess Gegra">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mend" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fén" target="Dáire">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fén" target="Fíngen">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fén" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Congaile" target="Conang">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Findchóem" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Findchóem" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Foill" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fedelm" target="Triath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fedelm" target="Cairbre">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fedelm" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fedelm" target="Medb">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Dibe" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Éogan" target="Daurthecht">
+      <data key="d0">10</data>
+    </edge>
+    <edge source="Fer Báeth" target="Scáthach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fer Báeth" target="Medb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fer Báeth" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fer Báeth" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Badb" target="Sárán">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Badb" target="Amergin">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Badb" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Badb" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Badb" target="Medb">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Badb" target="Bodar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Badb" target="Fruích">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire Búadach" target="Ríangabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire Búadach" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire Búadach" target="Medb">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Lóegaire Búadach" target="Conall Cernach">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Lóegaire Búadach" target="Fedelm Noíchrothach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Muinremur" target="Trénfer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Muinremur" target="Gerrce">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Muinremur" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Muinremur" target="Cú Roí">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Caiss" target="Conang">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caiss" target="Rus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Caiss" target="Báeth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ánlúan" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Trénfer" target="Triscoth">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Trénfer" target="Conchobar">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Trénfer" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Fíacha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Cochar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Úan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Etan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Rus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Scáthach" target="Irúath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Búan">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Scáthach" target="Úaithne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Scáthach" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Úan" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Srúb" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mórrígan" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Búan" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Búan" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Baiscne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Díchuil">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Conchobar">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Medb" target="Crom Deróil">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Medb" target="Redg Cáinte">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Findabair">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Medb" target="Etan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Fruích">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Dáire">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Medb" target="Cú Roí">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Medb" target="Echach Fedlig">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Fíacha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Rus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Fergus">
+      <data key="d0">36</data>
+    </edge>
+    <edge source="Medb" target="Irúath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Medb" target="Láríne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíngen" target="Etan">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíngen" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíngen" target="Cethern">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Fíngen" target="Áed">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíngen" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echdach" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etan" target="Díarmait">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etan" target="Echach Fedlig">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etan" target="Tailtiu">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Etan" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Uisliu" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Uisliu" target="Leborcham">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíacha" target="Fabric">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíacha" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíacha" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíacha" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíacha" target="Mess Gegra">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíacha" target="Cairbre">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fíacha" target="Conchobar">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Fíacha" target="Dócha">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Ferb" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ferb" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Murgen" target="Emine">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Murgen" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Senláech" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dorcha" target="Áed">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Bríanán" target="Amergin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amergin" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amergin" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amergin" target="Cú Roí">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Amergin" target="Conall Cernach">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Amergin" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Amergin" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Amergin" target="Tailtiu">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Senach" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Irúath" target="Áed">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Áed" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Áed" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Findchaimi" target="Fergna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Findchaimi" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Úaithne" target="Elatha">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Úaithne" target="Leborcham">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Damán" target="Dáire">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Damán" target="Findabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Triath" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Feradach" target="Conchobar">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Mess Gegra" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Mess Gegra" target="Conall">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Cairbre" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cairbre" target="Láeg">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Cairbre" target="Erc">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cairbre" target="Conchobar">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cairbre" target="Eimer">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Cathbad">
+      <data key="d0">14</data>
+    </edge>
+    <edge source="Conchobar" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Ferchú">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Eimer">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Conchobar" target="Fergus">
+      <data key="d0">20</data>
+    </edge>
+    <edge source="Conchobar" target="Crom Deróil">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Conn">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Conchobar" target="Cobthach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Conchobar" target="Cú Roí">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Conchobar" target="Ríangabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Leborcham">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Cethern">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Conchobar" target="Úath">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Conchobar" target="Echach Fedlig">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Conchobar" target="Díarmait">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Conchobar" target="Rus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Conchobar" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conchobar" target="Conall">
+      <data key="d0">4</data>
+    </edge>
+    <edge source="Cerna" target="Conang">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cerna" target="Conall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Findabair" target="Fergus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Findabair" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Findabair" target="Conall">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Findabair" target="Flidais">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Findabair" target="Láríne">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dócha" target="Imroll Belaig Eóin">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eimer" target="Díarmait">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eimer" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eimer" target="Forgall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eimer" target="Flidais">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Eimer" target="Ríangabair">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Crom Deróil" target="Conn">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Crom Deróil" target="Cú Roí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Áed Sláine" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Éccell" target="Cáur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Tailtiu" target="Cú Roí">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Tailtiu" target="Leborcham">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ríangabair" target="Láeg">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Ríangabair" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ferchú" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Ferchú" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Báeth" target="Fannall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Báeth" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Níall" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Níall" target="Crimthann">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cethern" target="Fergus">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Cethern" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Crimthann" target="Fergus">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Dáire">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Conall Cernach">
+      <data key="d0">7</data>
+    </edge>
+    <edge source="Fergus" target="Láeg">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Fergna">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Cáur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Conn">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Rus">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Fergus" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Flidais">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Illand">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Fergus" target="Etarcomal">
+      <data key="d0">3</data>
+    </edge>
+    <edge source="Leborcham" target="Conall Cernach">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Leborcham" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Láeg" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Láeg" target="Cáur">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Léna" target="Úath">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Úath" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Úath" target="Cú Roí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Daurthecht" target="Conall Cernach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Daurthecht" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Daurthecht" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Dáire" target="Cú Roí">
+      <data key="d0">9</data>
+    </edge>
+    <edge source="Illand" target="Erc">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Cú Roí" target="Blaí">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Echach Fedlig" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conn" target="Conall">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conn" target="Conall Cernach">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Conall Cernach" target="Flidais">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conall Cernach" target="Cathbad">
+      <data key="d0">1</data>
+    </edge>
+    <edge source="Conall Cernach" target="Conall">
+      <data key="d0">5</data>
+    </edge>
+    <edge source="Erc" target="Bodar">
+      <data key="d0">1</data>
+    </edge>
+  </graph>
+</graphml>
