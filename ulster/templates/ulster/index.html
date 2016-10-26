@@ -1,0 +1,36 @@
+{% extends "ulster/base.html" %}
+{% load static %}
+
+ {% block carousel %}
+ <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src='{% static "ulster/images/book.jpg" %}' alt="The Book of Ballymote">
+      <div class="carousel-caption">
+	  <br>
+        <h3>Medieval Irish Narrative Visualized</h3>
+        <p>An unconventional look at medieval Irish literature</p>
+      </div>
+    </div>
+  </div>
+ </div>
+ 
+ {% endblock %}
+ 
+ {% block content %}
+
+<div id="description" class="container-fluid">
+	<div class="row">
+	<div class="col-sm-4">
+	<h3 align="center"><a href="graph">Network of Ulster Cycle Characters</a></h3>
+	<p id="description">The graph shows the co-occurrence of characters in the Ulster cycle of medieval Irish narrative. Every node corresponds to a character: the bigger it is, the more connetions the character has. If two characters are connected with a link, they occur together in a window of size 5. The thickness of the link indicates how often these characters co-occur. Colours show the degree of each node.</p><br></div>
+	<div class="col-sm-4">
+	<h3 align="center"><a href="corpus">Old and Middle Irish Corpus</a></h3>
+	<p id="description">A small unlabelled searchable corpus of Old and Middle Irish texts (230 000 tokens). You can download raw texts <a href="https://github.com/ancatmara/old_irish_corpora">here</a>.</p><br></div>
+	<div class="col-sm-4">
+	<h3 align="center"><a href="lemmatizer">Old Irish Lemmatizer</a></h3>
+	<p id="description">Here you can try out a lemmatizer for Old and Middle Irish. The lemmatizer is able to predict lemmas for OOV-words and shows the average accuracy of 65,71 %. The source code is available <a href="https://github.com/ancatmara/old_irish_lemmatizer">here</a>.</p><br></div>
+	</div>
+</div>  
+{% endblock %}
