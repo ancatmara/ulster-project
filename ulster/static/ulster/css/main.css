@@ -41,23 +41,6 @@ footer a:hover {
     opacity:0.9;
 }
 
-.Ya {
-    color: #FF0F0F;
-}
-
-/*Buttons */
-
-.ya_button {
-    color: #212931;
-    background-color: orange;
-    box-shadow: 0 0 1px;
-    margin: 5px;
-}
-
-.ya_button:hover{
-    background-color: #FEE067;
-}
-
 
 /*Links*/
 #description a:link{

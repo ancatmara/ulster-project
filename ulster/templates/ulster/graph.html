@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/Map">
 
-{% load static %}
+{% load staticfiles %}
 
 <head>
 <title>Characters of the Ulster cycle</title>
@@ -16,13 +16,12 @@
   <script src='{% static "ulster/js/sigma/sigma.min.js" %}' type="text/javascript" language="javascript"></script>
   <script src='{% static "ulster/js/sigma/sigma.parseJson.js" %}' type="text/javascript" language="javascript"></script>
   <script src='{% static "ulster/js/fancybox/jquery.fancybox.pack.js" %}' type="text/javascript" language="javascript"></script>
-  <script src='{% static "ulster/js/jquery/jquery.min.css" %}'></script>
-  <script src='{% static "ulster/js/d3.v3.min.css" %}'></script>
+  <script src='{% static "ulster/js/jquery/jquery.min.js" %}'></script>
   <script src='{% static "ulster/js/main.js" %}' type="text/javascript" language="javascript"></script>
 
 
   <link rel="stylesheet" type="text/css" href='{% static "ulster/js/fancybox/jquery.fancybox.css" %}'/>
-  <link rel="stylesheet" href='{% static "ulster/css/style.css" type="text/css" media="screen" %}'/>
+  <link rel="stylesheet" href='{% static "ulster/css/style.css" %}' type="text/css" media="screen"/>
   <link rel="stylesheet" media="screen and (max-height: 770px)" href='{% static "ulster/css/tablet.css" %}'/>
   <link rel="stylesheet" href='{% static "ulster/bootstrap/bootstrap.min.css" %}'>
   <link rel="stylesheet" href='{% static "ulster/bootstrap/bootstrap-theme.min.css" %}'>
@@ -35,18 +34,18 @@
   </div>
 <div id="mainpanel">
   <div class="col">
-        <div id="maintitle"></div>
-    <div id="title"></div>
+<!--         <div id="maintitle"></div> -->
+    <!-- <div id="title"></div> -->
     <div id="titletext"></div>
     <div class="info cf">
-      <dl>
+<!--       <dl>
         <dt class="moreinformation"></dt>
         <dd class="line"><a href="#information" class="line fb">More about this visualisation</a></dd>
-      </dl>
+      </dl> -->
     </div>
 <div id="legend">
     <div class="box">
-        <h2>Legend:</h2>
+<!--         <h2>Legend</h2> -->
         <dl>
         <dt class="node"></dt>
         <dd></dd>
@@ -59,15 +58,17 @@
 </div> 
     <div class="b1">
     <form>
-      <div id="search" class="cf"><h2>Search:</h2>
+      <div id="search" class="cf">
+	  <!-- h2>Search</h2> -->
         <input type="text" name="search" value="Search by name" class="empty"/><div class="state"></div>
-        <div class="results"></div>
+        <!-- <div class="results"></div> -->
       </div>
-      <div class="cf" id="attributeselect"><h2>Group Selector:</h2>
+<!--       <div class="cf" id="attributeselect"><h2>Group Selector:</h2>
         <div class="select">Select Group</div>
-    <div class="list cf"></div>
-      </div>
+    <div class="list cf"></div> -->
+<!--       </div> -->
     </form>
+	<p align="center"><a href="home">HOME</a></p>
     </div>
   </div>
   <div id="information">
@@ -77,18 +78,18 @@
           <div class="z" rel="in"></div> <div class="z" rel="out"></div> <div class="z" rel="center"></div>
     </div>
     <div id="copyright">
-        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src="images/CC.png" /></a></div>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="Creative Commons License" style="border-width:0" src='{%static "ulster/images/CC.png" %}'/></a></div>
     </div>
 <div id="attributepane">
 <div class="text">
     <div title="Close" class="left-close returntext"><div class="c cf"><span>Return to the full network</span></div></div>    
 <div class="headertext">
-    <span>Information Pane</span>
+    <!-- span>Information Pane</span> -->
 </div>    
   <div class="nodeattributes">
     <div class="name"></div>
-    <div class="data"></div>
-    <div class="p">Connections:</div>
+<!--     <div class="data"></div> -->
+    <div class="p">Connections</div>
     <div class="link">
       <ul>
       </ul>

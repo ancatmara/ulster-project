@@ -12,14 +12,14 @@ function GetQueryStringParams(sParam,defaultVal) {
     for (var i = 0; i < sURLVariables.length; i++) {
         var sParameterName = sURLVariables[i].split('=');
         if (sParameterName[0] == sParam) {
-            return sParameterName[1];
+            return 'static/' + sParameterName[1];
         }
     }
     return defaultVal;
 }
 
 
-jQuery.getJSON(GetQueryStringParams("config","config.json"), function(data, textStatus, jqXHR) {
+jQuery.getJSON(GetQueryStringParams("config","/static/ulster/config.json"), function(data, textStatus, jqXHR) {
 	config=data;
 	
 	if (config.type!="network") {
@@ -580,7 +580,7 @@ function nodeActive(a) {
         $GP.info_data.html(e.join("<br/>"))
     }
     $GP.info_data.show();
-    $GP.info_p.html("Connections:");
+    $GP.info_p.html("Connections");
     $GP.info.animate({width:'show'},350);
 	$GP.info_donnees.hide();
 	$GP.info_donnees.show();
