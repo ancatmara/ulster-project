@@ -9,17 +9,17 @@
   },
   "text": {
     "more": "The graph shows the co-occurrence of characters in the Ulster cycle of medieval Irish narrative. Every node corresponds to a character: the bigger it is, the more connetions the character has. If two characters are connected with a link, they occur together in a window of size 5. The thickness of the link indicates how often these characters co-occur. Colours show the degree of each node.",
-    "intro": "The graph shows the co-occurrence of characters in the Ulster cycle of medieval Irish narrative. Every node corresponds to a character: the bigger it is, the more connetions the character has. If two characters are connected with a link, they occur together in a window of size 5. The thickness of the link indicates how often these characters co-occur. Colours show the degree of each node.",
+    "intro": "The graph shows the co-occurrence of characters in the Ulster cycle of medieval Irish narrative. Every node corresponds to a character: the bigger it is, the more connetions the character has. If two characters are connected with a link, they occur together in a window of size 5. Colours show the degree of each node.",
     "title": "Characters of the Ulster Cycle"
   },
   "legend": {
-    "edgeLabel": "Co-occurrence",
+    "edgeLabel": "Connection",
     "colorLabel": "Degree",
     "nodeLabel": "Character"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Взвешенная мощность",
+    "groupSelectorAttribute": "Weighted Degree",
     "hoverBehavior": "dim"
   },
   "informationPanel": {

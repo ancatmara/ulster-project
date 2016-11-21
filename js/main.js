@@ -121,7 +121,7 @@ function initSigma(config) {
 
 function setupGUI(config) {
 	// Initialise main interface elements
-	var logo=""; // Logo elements
+/* 	var logo=""; // Logo elements
 	if (config.logo.file) {
 
 		logo = "<img src=\"" + config.logo.file +"\"";
@@ -131,7 +131,7 @@ function setupGUI(config) {
 		logo="<h1>"+config.logo.text+"</h1>";
 	}
 	if (config.logo.link) logo="<a href=\"" + config.logo.link + "\">"+logo+"</a>";
-	$("#maintitle").html(logo);
+	$("#maintitle").html(logo); */
 
 	// #title
 	$("#title").html("<h2>"+config.text.title+"</h2>");
@@ -571,16 +571,16 @@ function nodeActive(a) {
         }
 
         if (image_attribute) {
-        	//image_index = jQuery.inArray(image_attribute, temp_array);
-        	$GP.info_name.html("<div><img src=" + f.attributes[image_attribute] + " style=\"vertical-align:middle\" /> <span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
-        } else {
-        	$GP.info_name.html("<div><span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></div>");
+        	$GP.info_name.html("<div><h2><span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></h2></div>");
+        } 
+		else {
+        	$GP.info_name.html("<div><h2><span onmouseover=\"sigInst._core.plotter.drawHoverNode(sigInst._core.graph.nodesIndex['" + b.id + '\'])" onmouseout="sigInst.refresh()">' + b.label + "</span></h2></div>");
         }
         // Image field for attribute pane
         $GP.info_data.html(e.join("<br/>"))
     }
     $GP.info_data.show();
-    $GP.info_p.html("Connections:");
+    $GP.info_p.html("<br>Connections<br><br>");
     $GP.info.animate({width:'show'},350);
 	$GP.info_donnees.hide();
 	$GP.info_donnees.show();
